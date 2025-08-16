@@ -28,5 +28,5 @@ The goal of this dashboard is to:
 ## 💡 Business Impact & Insights  
 - ⏱ Reduced reporting time by automating healthcare tracking  
 - 🧑‍⚕️ Helped staff foc
-
- [Healthcare Dashboard](https://yourlink.com/dashboard-image)
+## 🖼️ Dashboard Overview  
+ https://github.com/deepasingh67/Healthcare-Dashboard/blob/main/Healthcare%20Analysis
