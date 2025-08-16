@@ -30,3 +30,4 @@ The goal of this dashboard is to:
 - 🧑‍⚕️ Helped staff foc
 ## 🖼️ Dashboard Overview  
  https://github.com/deepasingh67/Healthcare-Dashboard/blob/main/Healthcare%20Analysis
+ file:///C:/Users/flex%205%2092in/Downloads/Healthcare%20Analysis
